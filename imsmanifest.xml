@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">मॉड्यूल 3
+          <langstring xml:lang="x-none">मॉड्यूल 4 
 कच्चे सामग्री प्रसंस्करण - चीनी</langstring>
         </title>
       </general>
@@ -51,15 +51,15 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="मॉड्यूल_3
+  <organizations default="मॉड्यूल_4_
 कच्चे_सामग्री_प्रसंस्करण_-_चीनी_ORG">
-    <organization identifier="मॉड्यूल_3
+    <organization identifier="मॉड्यूल_4_
 कच्चे_सामग्री_प्रसंस्करण_-_चीनी_ORG">
-      <title>मॉड्यूल 3
+      <title>मॉड्यूल 4 
 कच्चे सामग्री प्रसंस्करण - चीनी</title>
       <item identifier="मॉड्यूल_3
 कच्चे_सामग्री_प्रसंस्करण_-_चीनी_SCO" isvisible="true" identifierref="__6Tj9tc3ssqO_RES">
-        <title>मॉड्यूल 3
+        <title>मॉड्यूल 4 
 कच्चे सामग्री प्रसंस्करण - चीनी</title>
       </item>
     </organization>
@@ -72,7 +72,7 @@
       <file href="mobile/6MOUWMZdzX0.png" />
       <file href="mobile/6fk7eiFqmPY.png" />
       <file href="mobile/6OTKD5yz1oZ.png" />
-      <file href="mobile/5ncWtPwamXx.png" />
+      <file href="mobile/6j7YVyWYKca.png" />
       <file href="story_content/video_5V4MrJZFHDJ_26_40_1920x1080.mp4" />
       <file href="mobile/poster_6I5wRUDkDVe_video_5V4MrJZFHDJ_26_40_1920x1080.jpg" />
       <file href="mobile/5bLE8hUziw8.png" />
@@ -94,7 +94,7 @@
       <file href="mobile/6Pc8XlZNJLo.png" />
       <file href="mobile/5W4C7N4U39m.png" />
       <file href="mobile/5eil91QjRWE.png" />
-      <file href="mobile/6eBKbER8Q92.png" />
+      <file href="mobile/6STBkceGsK0.png" />
       <file href="mobile/6TTdHEtTVYP.png" />
       <file href="mobile/6RfL2EY2231.png" />
       <file href="mobile/5iTo961YtoF.png" />
@@ -103,7 +103,7 @@
       <file href="story_content/6D3LceXD3vM_44100_40_0.mp3" />
       <file href="story_content/6XsVAacqzLI_44100_40_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/5uoRA0wsjIA.png" />
+      <file href="mobile/6HLs7g5EpXu.png" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
