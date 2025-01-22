@@ -14,13 +14,13 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="मॉड्यूल 4 &#xA;कच्चे सामग्री प्रसंस्करण - चीनी" />
+              <option name="title_text" value="मॉड्यूल 4-कच्चे सामग्री प्रसंस्करण - चीनी" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6N1F2RLSCYS.png" />
+              <option name="html5_logo_url" value="mobile/5ahThhzH0Pi.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -52,7 +52,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
